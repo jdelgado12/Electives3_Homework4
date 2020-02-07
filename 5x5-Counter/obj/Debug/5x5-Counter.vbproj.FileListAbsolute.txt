@@ -8,3 +8,4 @@ C:\Users\Joshua Delgado\Documents\Visual Studio 2015\Projects\5x5-Counter\5x5-Co
 C:\Users\Joshua Delgado\Documents\Visual Studio 2015\Projects\5x5-Counter\5x5-Counter\obj\Debug\5x5-Counter.exe
 C:\Users\Joshua Delgado\Documents\Visual Studio 2015\Projects\5x5-Counter\5x5-Counter\obj\Debug\5x5-Counter.xml
 C:\Users\Joshua Delgado\Documents\Visual Studio 2015\Projects\5x5-Counter\5x5-Counter\obj\Debug\5x5-Counter.pdb
+C:\Users\Joshua Delgado\Documents\Visual Studio 2015\Projects\5x5-Counter\5x5-Counter\obj\Debug\5x5-Counter.vbprojResolveAssemblyReference.cache

@@ -121,7 +121,7 @@
         Console.WriteLine(button)
 
         If x Then
-            button.BackColor = Color.Red
+            button.BackColor = Color.White
         Else
             button.BackColor = Color.Black
         End If
